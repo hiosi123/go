@@ -18,7 +18,7 @@ func main() {
 		fmt.Println(err)
 		stdin.ReadString('\n')
 	} else {
-		fmt.Println(
+		fmt.Println(a, b)
 	}
 
 }
